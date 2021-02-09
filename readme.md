@@ -1,6 +1,6 @@
 # My Personal Website
 
-Using the skills I learn in COdecademy's Web Development course, I am creating a personal website where I can:
+Using the skills I learn in Codecademy's Web Development course, I am creating a personal website where I can:
 
 - introduce myself. 
 - explain my background.
