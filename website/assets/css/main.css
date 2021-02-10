@@ -11,7 +11,6 @@ body {
 
  header {
      width: 100%;
-     height: 30px;
      display: inline;
  }
 
@@ -24,7 +23,7 @@ body {
     margin-left: 2%;
     margin-top: 10px;
     color: black;
-    font-size: 20px;  
+    font-size: 30px;  
 }
 
 span {
@@ -50,7 +49,7 @@ a {
     text-align: center;
     color: black;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 a:hover{ 
@@ -85,3 +84,16 @@ footer {
       top: 50%;
       font-size: 100px;
   }
+
+  @media only screen and (max-width: 600px) {
+
+    
+    .myname {
+        font-size: 5vw;
+    }
+    a {
+        
+        font-size: 10px;
+    }
+ 
+ }
